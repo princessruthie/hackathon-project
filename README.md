@@ -1,4 +1,4 @@
-# hackathon-project
+# hackathon project
 This is a public repo where anyone can make a pull request.
 
 # collaborators
